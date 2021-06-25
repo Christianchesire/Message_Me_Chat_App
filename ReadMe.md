@@ -1,4 +1,4 @@
-##RAILS CHAT ME APP
+## RAILS CHAT ME APP
 
 We'll be using rails version (5.2.1) and ruby version (2.5.1)
 
